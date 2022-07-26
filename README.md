@@ -1,5 +1,7 @@
 ## Como dito por Mestre Yoda “Você deve desaprender o que aprendeu e aprender JavaScript".
 
+![yoda-advice-featured-1](https://user-images.githubusercontent.com/99887250/180904867-94256fc3-5719-454b-9923-1029fa1577a3.jpg) 
+
 ## Talvez a ultima parte não foi ele, mas é a verdade!
 
  <div>
